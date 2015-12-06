@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Example</title>
+
+<!-- Styles -->	
+<style style="text/css">
+body {
+  background-image: url("Star_pattern.gif");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+}
+</style>
+</head>
+<body>
+<h2>CHRISTMAS WISHES</h2>
+<ul style="list-style-type:square">
+  <li>FAMILY&amp;FRIENDS</li>
+</ul>
+<div style="background-color: lightblue;width:400px;height:px;padding:10px;border:2px solid red;">
+I wish love and happiness.
+<br>
+I wish a lot of friends.
+<br>
+I wish health for my family and me.
+</div>
+<ul style="list-style-type:square">
+  <li> GOOD FRIENDS</li>
+</ul>
+<div style="background-color: lightblue;width:400px;height:px;padding:10px;border:2px solid red;">
+I wish love and happiness.
+<br>
+I wish a lot of friends.
+</div>
+<ul style="list-style-type:square">
+  <li>FAMILY&amp;FRIENDS</li>
+</ul>
+<div style="background-color: lightblue;width:400px;height:px;padding:10px;border:2px solid red;">
+I wish love and happiness.
+</div>
+<img src="Christmas_logo.png" alt="Chrismtas logo">
+<img style="position:absolute; TOP:10px; LEFT:435px; WIDTH:150px; HEIGHT:120px" SRC="Christmas_logo.png" alt="Chrismtas logo">
+
+</body>
+</html>
