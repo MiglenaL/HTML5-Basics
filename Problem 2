@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+	<meta charset="UTF-8">
+		<title>Paragraphfs and images of text</title>
+	</head>
+	<body style="background-color : lightgrey;">
+		<h1>Hello HTML!</h1>
+		<h2>This is My First Try to Make an HTML Doc.</h2>
+		<h3>And I am Really Enjoying It!</h3>
+		<p>This is my 1st attempt to write a paragraph in HTML.</p>
+		<p>This is my 2nd try to write a paragraph in HTML.</p>
+		<h1 style="color: red;">PARAGRAPH ONE</h1>
+		<hr>
+		<p>Aenean bibendum porttitor nisi, in ultrices mauris varius at. Donec auctor orci mi, vitae volutpat sapien dignissim vel. Praesent eu erat id erat pharetra malesuada. Phasellus eu nisi sollicitudin, eleifend odio ut, rhoncus dui. Fusce enim dui, bibendum sit amet arcu eget, euismod eleifend lacus. Mauris sed suscipit purus, in tincidunt nunc. Duis turpis orci, blandit non convallis efficitur, auctor sit amet ipsum. Quisque auctor pulvinar mollis. Fusce eu tempor enim. Cras vel erat in turpis blandit maximus at eget mauris. Suspendisse porttitor lacinia tellus ac consequat. Phasellus tempus blandit posuere. Vivamus vel semper justo.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus gravida elit eu varius elementum. Nulla facilisi. Suspendisse pellentesque ligula at purus aliquet efficitur. Aenean consectetur auctor ante commodo gravida. Ut ac ante vitae purus vulputate varius vel nec velit. Etiam a molestie quam. Phasellus egestas turpis tellus, vehicula vestibulum arcu ullamcorper sit amet. Praesent non eros elementum, sagittis neque in, bibendum nibh. Nunc tincidunt eros eu turpis aliquet, ac pharetra metus euismod. Curabitur malesuada libero in tincidunt tempor. Vestibulum ac arcu et quam elementum iaculis vel ut est.</p>
+		<h1 style="color: green;">PARAGRAPH TWO</h1>
+		<hr>
+		<p>Aenean bibendum porttitor nisi, in ultrices mauris varius at. Donec auctor orci mi, vitae volutpat sapien dignissim vel. Praesent eu erat id erat pharetra malesuada. Phasellus eu nisi sollicitudin, eleifend odio ut, rhoncus dui. Fusce enim dui, bibendum sit amet arcu eget, euismod eleifend lacus. Mauris sed suscipit purus, in tincidunt nunc. Duis turpis orci, blandit non convallis efficitur, auctor sit amet ipsum. Quisque auctor pulvinar mollis. Fusce eu tempor enim. Cras vel erat in turpis blandit maximus at eget mauris. Suspendisse porttitor lacinia tellus ac consequat. Phasellus tempus blandit posuere. Vivamus vel semper justo.</p>
+		<p>Aenean bibendum porttitor nisi, in ultrices mauris varius at. Donec auctor orci mi, vitae volutpat sapien dignissim vel. Praesent eu erat id erat pharetra malesuada. Phasellus eu nisi sollicitudin, eleifend odio ut, rhoncus dui. Fusce enim dui, bibendum sit amet arcu eget, euismod eleifend lacus. Mauris sed suscipit purus, in tincidunt nunc. Duis turpis orci, blandit non convallis efficitur, auctor sit amet ipsum. Quisque auctor pulvinar mollis. Fusce eu tempor enim. Cras vel erat in turpis blandit maximus at eget mauris. Suspendisse porttitor lacinia tellus ac consequat. Phasellus tempus blandit posuere. Vivamus vel semper justo.</p>
+		<h1 style="color: orange;">PARAGRAPH THREE</h1>
+		<hr>
+		<p>Nunc nec ullamcorper lacus. In dapibus nibh id tortor ultrices viverra. Curabitur nec blandit nunc. Phasellus fringilla porttitor egestas. Ut tempor, augue ac mollis tempor, tellus velit imperdiet lectus, a iaculis nibh sapien et mauris. Morbi eget mauris feugiat ipsum commodo elementum. Donec vel maximus arcu. Pellentesque vulputate metus eget odio maximus, eget ultrices ante luctus. Cras nec placerat augue, nec tincidunt elit. Donec posuere enim a nisi volutpat mattis ac venenatis felis. Cras volutpat odio eget risus imperdiet pharetra. Phasellus quam leo, elementum sollicitudin lacus eu, ultrices laoreet ligula.</p>
+		<p>Aenean bibendum porttitor nisi, in ultrices mauris varius at. Donec auctor orci mi, vitae volutpat sapien dignissim vel. Praesent eu erat id erat pharetra malesuada. Phasellus eu nisi sollicitudin, eleifend odio ut, rhoncus dui. Fusce enim dui, bibendum sit amet arcu eget, euismod eleifend lacus. Mauris sed suscipit purus, in tincidunt nunc. Duis turpis orci, blandit non convallis efficitur, auctor sit amet ipsum. Quisque auctor pulvinar mollis. Fusce eu tempor enim. Cras vel erat in turpis blandit maximus at eget mauris. Suspendisse porttitor lacinia tellus ac consequat. Phasellus tempus blandit posuere. Vivamus vel semper justo.</p>
+		<h1>First Image</h1>
+		<p>
+    <img src = "fresh_salmon.jpg"
+         alt = "Picture of a fresh salmon" />
+  </p>
+
+		<h1>Trying BOLD</h1>
+		<h2>Christmas holidays are coming.</h2>
+		<b>Christmas is coming</b>
+		<i>Christmas is coming</i>
+		<u>Christmas is coming</u>
+		<br/>
+		<strong>Christmas is coming</strong>
+		<em>Christmas is coming</em>
+		<sub>Christmas is coming</sub>
+		<sup>Christmas is coming</sup>
+		<pre>Christmas is coming
+		Xo Xo Xo
+		</pre>
+		
+		
+	
