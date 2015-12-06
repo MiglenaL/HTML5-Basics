@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+	<meta charset="UTF-8">
+		<title>Hello HTML!</title>
+	</head>
+	<body>
+		<h1>Christmas Cookies Recipe</h1>
+		<ol type="I">
+  <li>WET INGREDIENTS</li>
+  <ol type="a">
+  <li>Water</li>
+  <li>Milk</li>
+</ol>
+  <li>DRY INGREDIENTS</li>
+  <ol type="1">
+  <li>Sugar</li>
+  <li>Flour</li>
+  <ul style="list-style-type:circle">
+  <li>Coffee</li>
+  <li>Milk</li>
+  <ul style="list-style-type:square">
+  <li>Coffee</li>
+  <li>Milk</li>
+</ul>
+  <li>Milk</li>
+</ul>
+<ul style="list-style-type:circle">
+  <li>Coffee</li>
+</ul>
+  <li>Rice</li>
+</ol>
+  <li>DECORATION TIPS</li>
+<ul style="list-style-type:disc">
+  <li>Sugar balls</li>
+  <li>Coconut</li>
+  <li>Royal Icing</li>
+  </ul>
